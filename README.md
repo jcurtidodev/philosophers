@@ -50,7 +50,7 @@ Cada filósofo alterna entre pensar, comer y dormir. Para comer, necesita adquir
 ## 🖥️ Compilación
 
 > ⚠️ **Precaución**  
-> Este proyecto está diseñado para compilarse y ejecutarse en un entorno **Linux** con MiniLibX instalado.  
+> Este proyecto está diseñado para compilarse y ejecutarse en un entorno **Linux**.  
 > Si trabajas desde Windows, asegúrate de usar **WSL (Windows Subsystem for Linux)** o una máquina virtual con Linux.  
 > Otras plataformas (macOS, etc.) no están garantizadas y pueden requerir adaptaciones adicionales.
 
