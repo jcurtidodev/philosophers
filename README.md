@@ -168,7 +168,6 @@ Invalid args. Variables needed (all positive):
   - Evitar deadlocks y starvation  
   - Gestión de tiempo en milisegundos en C
 
----
 
 ## 🤝 Créditos
 
